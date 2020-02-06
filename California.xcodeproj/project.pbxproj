@@ -7,15 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C208F0C623E02C0E0049B77B /* aboutYuccaVally.swift in Sources */ = {isa = PBXBuildFile; fileRef = C208F0C523E02C0E0049B77B /* aboutYuccaVally.swift */; };
 		C2A1463623DF2A3F000A28F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A1463523DF2A3F000A28F3 /* AppDelegate.swift */; };
 		C2A1463823DF2A3F000A28F3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A1463723DF2A3F000A28F3 /* SceneDelegate.swift */; };
 		C2A1463A23DF2A3F000A28F3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A1463923DF2A3F000A28F3 /* ContentView.swift */; };
 		C2A1463C23DF2A40000A28F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A1463B23DF2A40000A28F3 /* Assets.xcassets */; };
 		C2A1463F23DF2A40000A28F3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A1463E23DF2A40000A28F3 /* Preview Assets.xcassets */; };
 		C2A1464223DF2A40000A28F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2A1464023DF2A40000A28F3 /* LaunchScreen.storyboard */; };
+		C2A1464A23DF2B36000A28F3 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A1464923DF2B36000A28F3 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C208F0C523E02C0E0049B77B /* aboutYuccaVally.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aboutYuccaVally.swift; sourceTree = "<group>"; };
 		C2A1463223DF2A3F000A28F3 /* California.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = California.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2A1463523DF2A3F000A28F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2A1463723DF2A3F000A28F3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +27,7 @@
 		C2A1463E23DF2A40000A28F3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C2A1464123DF2A40000A28F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2A1464323DF2A40000A28F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2A1464923DF2B36000A28F3 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				C2A1463523DF2A3F000A28F3 /* AppDelegate.swift */,
 				C2A1463723DF2A3F000A28F3 /* SceneDelegate.swift */,
 				C2A1463923DF2A3F000A28F3 /* ContentView.swift */,
+				C208F0C523E02C0E0049B77B /* aboutYuccaVally.swift */,
+				C2A1464923DF2B36000A28F3 /* SwiftUIView.swift */,
 				C2A1463B23DF2A40000A28F3 /* Assets.xcassets */,
 				C2A1464023DF2A40000A28F3 /* LaunchScreen.storyboard */,
 				C2A1464323DF2A40000A28F3 /* Info.plist */,
@@ -146,8 +152,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C208F0C623E02C0E0049B77B /* aboutYuccaVally.swift in Sources */,
 				C2A1463623DF2A3F000A28F3 /* AppDelegate.swift in Sources */,
 				C2A1463823DF2A3F000A28F3 /* SceneDelegate.swift in Sources */,
+				C2A1464A23DF2B36000A28F3 /* SwiftUIView.swift in Sources */,
 				C2A1463A23DF2A3F000A28F3 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
